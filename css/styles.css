@@ -159,8 +159,8 @@ p{
     object-fit:cover;
   }
   .box div img {
-    width:25vw;
-    height: 25vw;
+    width: 100%;
+    height: 100%;
     transition: transform 1s;
   }
  
